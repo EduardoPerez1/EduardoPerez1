@@ -3,14 +3,14 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm Eduard Perez
-> Economics Student - Data Scientist in process 
+### Hi there 👋 I'm Eduardo Perez
+> Economics Student.
 
 
 
 <div>
  <p>
-I am a student of Economics at Universidad Nacional Autonoma de Mexico (UNAM) - I know some things about dev, and every day I continue to train to be a Data Scientist. - I am Alpha Microsoft Learn Student Ambassadors
+I am a student of Economics at Universidad Nacional Autonoma de Mexico (UNAM) - I know a bit about Python and JS. - I am Alpha Microsoft Learn Student Ambassadors
 </p>
 </div>
 
