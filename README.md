@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### print("Hi word") 👋 I'm Eduardo Perez
+### print("Hi world") 👋 I'm Eduardo Perez
 > Economics Student.
 
 
