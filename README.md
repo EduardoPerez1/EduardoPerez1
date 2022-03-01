@@ -7,12 +7,6 @@
 My name is **Eduardo Perez**, I'm 18 years old and I'm a student of **Economia** at Universidad Nacional Autonoma de Mexico (**UNAM**) in Mexico.
 I am Alpha Microsoft Learn Student Ambassadors, very interested in data. 
 
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-
-
-- 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-
 
 From [EduardoPerez1](https://github.com/EduardoPerez1)
 
